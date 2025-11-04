@@ -1,7 +1,7 @@
 # Systematic Portfolio Architecture
 
 This repository outlines the structure and logic of a **Systematic Multi-Asset Portfolio**.  
-It is designed to adaptively allocate risk across asset classes based on macro regimes, while selecting securities through quantitative factor models.  
+It is designed to adaptively allocate capital across asset classes and strategy styles based on risk factors, while selecting securities through quantitative models.  
 The architecture integrates top-down allocation, bottom-up security selection, centralized optimization, and continuous execution monitoring.
 
 ---
